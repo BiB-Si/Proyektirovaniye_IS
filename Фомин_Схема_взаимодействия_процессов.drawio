@@ -112,6 +112,39 @@
         <mxCell id="uDWhPEOCPgJteCF4P3Pc-34" value="Конец" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="945" y="780" width="90" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uDWhPEOCPgJteCF4P3Pc-36" target="uDWhPEOCPgJteCF4P3Pc-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-36" value="Начало" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="100" width="109" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uDWhPEOCPgJteCF4P3Pc-37" target="uDWhPEOCPgJteCF4P3Pc-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-37" value="Пользователь входит в систему и открывает раздел «Мои бронирования»" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1164.5" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uDWhPEOCPgJteCF4P3Pc-39" target="uDWhPEOCPgJteCF4P3Pc-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-39" value="Пользователь выбирает конкретное бронирование из списка" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1165" y="330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uDWhPEOCPgJteCF4P3Pc-41" target="uDWhPEOCPgJteCF4P3Pc-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-41" value="Нажимает кнопку «Отменить»" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1164.5" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uDWhPEOCPgJteCF4P3Pc-43" target="uDWhPEOCPgJteCF4P3Pc-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-43" value="Система обновляет расписание, освобождая место, и отправляет пользователю подтверждение отмены" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1164.5" y="585" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-45" value="Конец" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1176.5" y="750" width="96" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
