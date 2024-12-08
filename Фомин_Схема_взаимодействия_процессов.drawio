@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="Страница — 1" id="2zbmFw_WOKYykeZ0wJA3">
-    <mxGraphModel dx="1433" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3686" dy="1514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -276,6 +276,81 @@
         </mxCell>
         <mxCell id="uDWhPEOCPgJteCF4P3Pc-92" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;JSON HTTPS-запрос&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="40" y="1060" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uDWhPEOCPgJteCF4P3Pc-93" target="uDWhPEOCPgJteCF4P3Pc-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-93" value="Модуль управления бронирований" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uDWhPEOCPgJteCF4P3Pc-95" target="uDWhPEOCPgJteCF4P3Pc-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uDWhPEOCPgJteCF4P3Pc-95" target="uDWhPEOCPgJteCF4P3Pc-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-95" value="Модуль учёта расписания и мест" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-97" value="Базы данных" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uDWhPEOCPgJteCF4P3Pc-100" target="uDWhPEOCPgJteCF4P3Pc-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-100" value="Клиенты" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-105" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;JSON HTTPS-запрос&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="930" y="960" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-106" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;JSON HTTPS-запрос&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1070" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-107" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;JSON HTTPS-запрос&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="645" y="1110" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-108" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;JSON HTTPS-запрос&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1200" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uDWhPEOCPgJteCF4P3Pc-109" target="uDWhPEOCPgJteCF4P3Pc-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uDWhPEOCPgJteCF4P3Pc-109" target="uDWhPEOCPgJteCF4P3Pc-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-109" value="Финансовый модуль" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uDWhPEOCPgJteCF4P3Pc-110" target="uDWhPEOCPgJteCF4P3Pc-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-110" value="Модуль управления бронирований" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-112" value="Базы данных" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="uDWhPEOCPgJteCF4P3Pc-114" target="uDWhPEOCPgJteCF4P3Pc-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-114" value="Модуль уведомлений" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-120" value="Клиенты" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-122" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;JSON HTTPS-запрос&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1380" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-123" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;JSON HTTPS-запрос&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1590" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-124" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;JSON HTTPS-запрос&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1460" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-126" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;JSON HTTPS-запрос&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1680" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
