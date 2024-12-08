@@ -145,6 +145,57 @@
         <mxCell id="uDWhPEOCPgJteCF4P3Pc-45" value="Конец" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1176.5" y="750" width="96" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uDWhPEOCPgJteCF4P3Pc-47" target="uDWhPEOCPgJteCF4P3Pc-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-47" value="Начало" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1585" y="90" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uDWhPEOCPgJteCF4P3Pc-48" target="uDWhPEOCPgJteCF4P3Pc-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-48" value="Администратор авторизуется в системе и получает доступ к административному интерфейсу" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="190" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uDWhPEOCPgJteCF4P3Pc-50" target="uDWhPEOCPgJteCF4P3Pc-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uDWhPEOCPgJteCF4P3Pc-50" target="uDWhPEOCPgJteCF4P3Pc-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uDWhPEOCPgJteCF4P3Pc-50" target="uDWhPEOCPgJteCF4P3Pc-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-50" value="В интерфейсе отображается статистика занятости, текущие бронирования и доступные настройки" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="350" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uDWhPEOCPgJteCF4P3Pc-52" target="uDWhPEOCPgJteCF4P3Pc-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-52" value="Администратор может&amp;nbsp;изменять параметры расписания" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uDWhPEOCPgJteCF4P3Pc-53" target="uDWhPEOCPgJteCF4P3Pc-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-53" value="Администратор может&amp;nbsp;вручную создавать или удалять бронирования" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="540" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uDWhPEOCPgJteCF4P3Pc-54" target="uDWhPEOCPgJteCF4P3Pc-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-54" value="Администратор может&amp;nbsp;генерировать отчёты" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uDWhPEOCPgJteCF4P3Pc-58" target="uDWhPEOCPgJteCF4P3Pc-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-58" value="Все изменения сохраняются в базе" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uDWhPEOCPgJteCF4P3Pc-62" value="Конец" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1585" y="770" width="90" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
