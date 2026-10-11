@@ -2067,8 +2067,8 @@
             <mxPoint x="4170" y="1730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9zVGH55H_001RisQmlL3-311" edge="1" parent="1" style="curved=1;curveGeometry=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="9zVGH55H_001RisQmlL3-253" value="">
-          <mxGeometry height="50" relative="1" width="50" x="-0.5364" as="geometry">
+        <mxCell id="9zVGH55H_001RisQmlL3-311" edge="1" parent="1" style="curved=1;curveGeometry=1;endArrow=classic;html=1;rounded=0;entryX=0.008;entryY=-0.137;entryDx=0;entryDy=0;entryPerimeter=0;" target="9zVGH55H_001RisQmlL3-253" value="">
+          <mxGeometry height="50" relative="1" width="50" x="-0.5375" as="geometry">
             <Array as="points">
               <mxPoint x="3890" y="1790" />
               <mxPoint x="3880" y="1670" />
